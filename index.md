@@ -9,4 +9,4 @@
 
 <h2>Pobieranki</h2>
 <p>Plik do pobrania (chyba wirus) :D</p>
-<a href="test.txt" download="test">pobierz</a>
+<a href="test.txt" download="NaMaksaZwykłyPlik">pobierz</a>
